@@ -1,0 +1,1 @@
+# QGIS-Global-Wind-Atlas
